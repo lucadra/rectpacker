@@ -7,7 +7,7 @@
 /coverage
 
 # build outputs
-/lib
+#/lib
 
 # misc
 .DS_Store
